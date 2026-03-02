@@ -1,0 +1,16 @@
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\bin\Debug\net10.0-windows\Promedio de ventas [ADOC].exe
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\bin\Debug\net10.0-windows\Promedio de ventas [ADOC].deps.json
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\bin\Debug\net10.0-windows\Promedio de ventas [ADOC].runtimeconfig.json
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\bin\Debug\net10.0-windows\Promedio de ventas [ADOC].dll
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\bin\Debug\net10.0-windows\Promedio de ventas [ADOC].pdb
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\obj\Debug\net10.0-windows\Promedio_de_ventas__ADOC_.Form1.resources
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\obj\Debug\net10.0-windows\Promedio de ventas [ADOC].csproj.GenerateResource.cache
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\obj\Debug\net10.0-windows\Promedio de ventas [ADOC].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\obj\Debug\net10.0-windows\Promedio de ventas [ADOC].AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\obj\Debug\net10.0-windows\Promedio de ventas [ADOC].AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\obj\Debug\net10.0-windows\Promedio de ventas [ADOC].csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\obj\Debug\net10.0-windows\Promedio de ventas [ADOC].dll
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\obj\Debug\net10.0-windows\refint\Promedio de ventas [ADOC].dll
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\obj\Debug\net10.0-windows\Promedio de ventas [ADOC].pdb
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\obj\Debug\net10.0-windows\Promedio de ventas [ADOC].genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Desktop\Progra-ejercicio5\Promedio de ventas [ADOC]\obj\Debug\net10.0-windows\ref\Promedio de ventas [ADOC].dll
