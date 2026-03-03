@@ -1,0 +1,11 @@
+C:\Users\rener\Desktop\practica\HERENCIA\HERENCIAA\bin\Debug\HERENCIAA.exe.config
+C:\Users\rener\Desktop\practica\HERENCIA\HERENCIAA\bin\Debug\HERENCIAA.exe
+C:\Users\rener\Desktop\practica\HERENCIA\HERENCIAA\bin\Debug\HERENCIAA.pdb
+C:\Users\rener\Desktop\practica\HERENCIA\HERENCIAA\obj\Debug\HERENCIAA.csproj.AssemblyReference.cache
+C:\Users\rener\Desktop\practica\HERENCIA\HERENCIAA\obj\Debug\HERENCIAA.Form1.resources
+C:\Users\rener\Desktop\practica\HERENCIA\HERENCIAA\obj\Debug\HERENCIAA.Properties.Resources.resources
+C:\Users\rener\Desktop\practica\HERENCIA\HERENCIAA\obj\Debug\HERENCIAA.csproj.GenerateResource.cache
+C:\Users\rener\Desktop\practica\HERENCIA\HERENCIAA\obj\Debug\HERENCIAA.csproj.CoreCompileInputs.cache
+C:\Users\rener\Desktop\practica\HERENCIA\HERENCIAA\obj\Debug\HERENCIAA.exe
+C:\Users\rener\Desktop\practica\HERENCIA\HERENCIAA\obj\Debug\HERENCIAA.pdb
+C:\Users\rener\Desktop\practica\HERENCIA\HERENCIAA\obj\Debug\HERENCIAA.exe.config
