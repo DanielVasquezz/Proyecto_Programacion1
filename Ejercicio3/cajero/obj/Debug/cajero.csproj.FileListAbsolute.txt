@@ -1,0 +1,10 @@
+C:\Users\justi\Desktop\cajero\bin\Debug\cajero.exe.config
+C:\Users\justi\Desktop\cajero\bin\Debug\cajero.exe
+C:\Users\justi\Desktop\cajero\bin\Debug\cajero.pdb
+C:\Users\justi\Desktop\cajero\obj\Debug\cajero.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\cajero\obj\Debug\cajero.Cajero.resources
+C:\Users\justi\Desktop\cajero\obj\Debug\cajero.Properties.Resources.resources
+C:\Users\justi\Desktop\cajero\obj\Debug\cajero.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\cajero\obj\Debug\cajero.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\cajero\obj\Debug\cajero.exe
+C:\Users\justi\Desktop\cajero\obj\Debug\cajero.pdb
